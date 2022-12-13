@@ -1,0 +1,156 @@
+
+
+
+.DateInput_input, .DateInput_input_1 {
+    Height: 34px !important;
+    border-radius: inherit;
+    font-size: inherit;
+    width: 100%
+}
+
+.SingleDatePickerInput__withBorder {
+    border-radius: 4px 0 0 4px;
+    border: 1px solid #ccc !important;
+    width: 100%
+}
+
+.DateRangePicker, .DateRangePicker_1{
+    width: 100%
+}
+
+.navbar-brand {
+    font-size: 18px;
+    margin-left: 0px;
+    margin-right: 0px;
+    left: 33px;
+    position: absolute;
+}
+
+.navbar-brand:hover {
+  text-decoration: underline;
+}
+
+.dash-logout-btn {
+    font-size:18px;
+    padding-left: 32px;
+}
+
+.dash-logout-btn:hover {
+  text-decoration: underline;
+}
+
+.navbar-nav {
+    font-size:18px;
+}
+
+.card:hover {
+  box-shadow: 0 0 11px rgba(33,33,33,.2);
+}
+
+.card {
+    height: fill-content;
+    min-height: 115px;
+    width: fill-content;
+    min-width: 400px;
+    margin-top: 5px;
+}
+
+.col-auto {
+    flex: 0 0 auto;
+    min-width: 650px;
+    margin-top:5px;
+    width: 450px;
+}
+
+
+.usernamenavbar {
+    max-width: 205px;
+}
+
+.alert-secondary {
+    color: #414b41;
+    background-color: transparent;
+    border-color: black;
+    border-style: dashed;
+}
+
+.h2, h2 {
+    font-size: 26px;
+    margin-top: 5px;
+    margin-left: 0px;
+    font-weight: bold;
+}
+
+.h4, h4 {
+    font-size: 20px;
+    margin-top: 5px;
+    margin-left: 0px;
+    font-weight: bold;
+}
+
+.h5, h5 {
+    font-size: 20px;
+    margin-left: 0px;
+    font-weight: bold;
+}
+
+P {
+    font-size: 14px;
+    margin-bottom: 0;
+}
+
+.card-img {
+    margin-top: 10px
+
+}
+
+body {
+    background-color: #F7F8F9;
+    font-family: 'Source Sans Pro', sans-serif;
+    align-content:center;
+    justify-content:center;
+}
+
+
+
+.eYbLCt {
+    font-size: 20px;
+}
+
+.triangle-buttons {
+    /* Center the content */
+    align-items: center;
+    display: flex;
+    width: 20px;
+    justify-content: center;
+    border: none;
+    background: none;
+    /* Spacing */
+    margin-top:60px;
+}
+
+.triangle-buttons__triangle {
+    border-style: solid;
+
+    /* Size */
+    height: 0px;
+    width: 0px;
+}
+
+.triangle-buttons__triangle--t {
+    border-color: transparent transparent #d1d5db;
+    border-width: 0 0.5rem 0.5rem;
+}
+
+.triangle-buttons__triangle--b {
+    border-color: #d1d5db transparent transparent;
+    border-width: 0.5rem 0.5rem 0;
+}
+
+.divBorder{
+    border: 2px solid black;
+    margin-top: 10px;
+    width: 500px;
+    align-content:center;
+    justify-content:center;
+   }
